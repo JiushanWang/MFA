@@ -8,7 +8,7 @@
 
 - 在线 Demo 链接：出于公司保密原则，只能进行远程展示，无法提供在线 Demo 链接
 - 代码仓库链接：https://github.com/JiushanWang/MFA
-- 演示视频链接：待填写
+- 演示视频链接：https://github.com/JiushanWang/MFA/releases/tag/v1.0-demo
 - README 文档：本文件
 
 ## 作品定位
